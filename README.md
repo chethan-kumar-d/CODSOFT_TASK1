@@ -1,104 +1,43 @@
-# \# TaskFlow — To-do List App
+# TaskFlow — To-do List App
 
-# 
+Task 1 of my CodSoft Android Development internship.
 
-# Task 1 of my CodSoft Android Development internship.
+A React Native app for organising tasks and tracking progress.
 
-# 
+## Features
 
-# TaskFlow is a React Native app for organising tasks, managing
+- Create, edit and delete tasks
+- Mark tasks as active or completed
+- Set priorities, categories, dates and optional times
+- Choose dates using a calendar
+- Add subtasks and track progress
+- Search, filter and sort tasks
+- View a daily timeline
+- Save tasks locally with AsyncStorage
+- Personalise the dashboard name
 
-# deadlines and tracking progress.
+## Technologies
 
-# 
+React Native, JavaScript, Expo and AsyncStorage.
 
-# \## Features
+## Try the App
 
-# 
+[Open TaskFlow in Expo Snack](https://snack.expo.dev/@chethan-kumar-d/codsoft_task1_taskflow)
 
-# \- Create, edit and delete tasks
+Select Web for the browser preview, or use a compatible
+Expo Go version to run it on Android.
 
-# \- Mark tasks as completed or active
+## Demo Video
 
-# \- Set priorities, categories, due dates and optional times
+[Watch TaskFlow on LinkedIn](https://lnkd.in/p/dbjYZxap)
 
-# \- Select dates using a calendar
+## Storage
 
-# \- Add subtasks and track completion progress
+Tasks are saved locally on your device or browser.
+They are not synchronised between devices.
 
-# \- Search, filter and sort tasks
+## Author
 
-# \- View tasks in a daily timeline
+Chethan Kumar D
 
-# \- Save tasks locally using AsyncStorage
-
-# \- Personalise the dashboard name
-
-# 
-
-# \## Technologies
-
-# 
-
-# \- React Native
-
-# \- JavaScript
-
-# \- Expo Snack
-
-# \- AsyncStorage
-
-# \- Expo Vector Icons
-
-# 
-
-# \## Try the App
-
-# 
-
-# Open the saved project in Expo Snack:
-
-# 
-
-# https://snack.expo.dev/@chethan-kumar-d/codsoft\_task1\_taskflow
-
-# 
-
-# Select Web to try the browser preview.
-
-# 
-
-# To run on Android, open the project using an Expo Go version
-
-# compatible with the SDK selected in Snack.
-
-# 
-
-# \## Demo Video
-
-# 
-
-# The demonstration video will be linked here after it is
-
-# published on LinkedIn.
-
-# 
-
-# \## Storage
-
-# 
-
-# Tasks are stored locally on the device or browser.
-
-# They are not synchronised between devices.
-
-# 
-
-# \## Author
-
-# 
-
-# Chethan Kumar D  
-
-# GitHub: https://github.com/chethan-kumar-d
-
+[GitHub Profile](https://github.com/chethan-kumar-d)
